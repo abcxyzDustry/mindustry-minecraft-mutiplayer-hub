@@ -1,0 +1,15 @@
+
+{
+  "expo": {
+    "name": "MC Multiplayer Hub",
+    "slug": "mc-multiplayer-hub",
+    "extra": {
+      "eas": {
+        "projectId": "2f533126-7b5c-4df7-b244-b9b512b59820"
+      }
+    },
+    "android": {
+      "package": "com.haikieu.mcmultiplayerhub"
+    }
+  }
+}
